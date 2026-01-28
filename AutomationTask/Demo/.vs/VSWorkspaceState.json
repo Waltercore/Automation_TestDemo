@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Automation_Framework",
+    "\\Automation_Framework\\Features",
+    "\\Automation_Framework\\Features\\LoginPage",
+    "\\Automation_Framework\\Page",
+    "\\Automation_Framework\\Page\\PageConstants",
+    "\\Automation_Framework\\Page\\PageParts",
+    "\\Automation_Framework\\Steps"
+  ],
+  "SelectedNode": "\\Automation_Framework\\Steps\\LoginSteps.cs",
+  "PreviewInSolutionExplorer": false
+}
